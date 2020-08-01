@@ -7,6 +7,11 @@
 * HTML
 * CSS
 * Bootstrap
+* NodeJS
+* Sequelize
+* SQL
+* API
+* JQuery  
 
 
 ## Author
