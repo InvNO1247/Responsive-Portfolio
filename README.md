@@ -12,6 +12,7 @@
 * SQL
 * API
 * JQuery  
+* Heroku
 
 
 ## Author
